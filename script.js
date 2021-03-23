@@ -9,7 +9,7 @@ const makePizza = function() {
 };
 
 const makeSushi = function() {
-   console.log('Boil the sticky rise');
+   console.log('Boil the sticky rice');
    console.log('Chop the fish');
    console.log('Chop the veggies');
    console.log('Roll the sushi');
@@ -17,8 +17,8 @@ const makeSushi = function() {
 };
 
 // Using or "calling" a function
-makePizza();
-makePizza();
-makePizza();
-
 makeSushi();
+makeSushi();
+makeSushi();
+makePizza();
+makePizza();
